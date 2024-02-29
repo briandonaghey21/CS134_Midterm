@@ -1,0 +1,26 @@
+caption {
+    color:red;
+    text-align: center;
+    width: 100 px;
+    font-size: 20px;
+    font-weight: bold;
+}
+th, td {
+    padding: 15px;
+    border: 3px solid black;
+}
+h3 {
+    font-size: 20px;
+    color: red;
+    text-align: center;
+    padding-right: 50px;
+}
+ul{
+    font-size: 18px;
+    list-style-type: none;
+    text-align: left;
+    width: 250px
+}
+li {
+    padding-bottom: 10px;
+}
